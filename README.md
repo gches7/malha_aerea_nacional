@@ -6,7 +6,7 @@
 ![pandas](https://img.shields.io/badge/pandas-dados-150458?logo=pandas&logoColor=white)
 ![Status](https://img.shields.io/badge/status-concluído-success)
 
-O projeto une teoria e dados. Na parte teórica, demonstra a equivalência entre *caminhos independentes* e *conjuntos separadores* (Teorema de Menger) e sua ligação com o teorema **Max-Flow Min-Cut**. Na parte aplicada, usa esses resultados para medir, com dados públicos da ANAC, **quão robusta é a malha aérea doméstica brasileira** e **quais aeroportos representam os maiores riscos de desconexão**.
+O projeto une matemática aplicada e dados. Na parte teórica, demonstra a equivalência entre *caminhos independentes* e *conjuntos separadores* (Teorema de Menger) e sua ligação com o teorema **Max-Flow Min-Cut**. Na parte aplicada, usa esses resultados para medir, com dados públicos da ANAC, **quão robusta é a malha aérea doméstica brasileira** e **quais aeroportos representam os maiores riscos de desconexão**.
 
 <p align="center">
   <img src="pontos_articulacao_radial.png" width="620" alt="Pontos de articulação da malha aérea brasileira">
